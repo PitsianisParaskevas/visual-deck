@@ -2,7 +2,7 @@
 
 This project is a **React-based interactive map** that uses **Deck.gl** and **Mapbox** to visualize geospatial data. It allows users to **switch between different map styles, toggle layers, and zoom into specific locations** using a sidebar menu.
 
-## **🌟 Features**
+## ** Features**
 - 📍 **Layer Management**: Toggle visibility for different layers.
 - 🔍 **Zoom to Feature**: Click on a location in the list to zoom into it.
 - 🗺️ **Custom Map Styles**: Switch between multiple Mapbox styles.
@@ -15,7 +15,6 @@ This project is a **React-based interactive map** that uses **Deck.gl** and **Ma
 ![Map Preview](./src/assets/map-preview.png)
 
 
-## **📂 Project Structure**
 
 
 
