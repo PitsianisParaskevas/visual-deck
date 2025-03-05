@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Hans-Thoma-Platz",
+    "address": "Hans-Thoma-Platz 16, 69121 Heidelberg",
+    "coordinates": [8.682689547229453, 49.42790254911065]
+  },
+  {
+    "id": 2,
+    "name": "Uferstraße",
+    "address": "Uferstraße 6, 69120 Heidelberg",
+    "coordinates": [8.691748097960467, 49.41333783573739]
+  },
+  {
+    "id": 3,
+    "name": "Das Carre, Rohrbacher Str.",
+    "address": "Das Carre, Rohrbacher Str. 8, 69115 Heidelberg",
+    "coordinates": [8.692276976525081, 49.40770094329835]
+  },
+  {
+    "id": 4,
+    "name": "Pfaffengrunder Terrasse",
+    "address": "Pfaffengrunder Terrasse 6, 69115 Heidelberg",
+    "coordinates": [8.664672344735258, 49.40170825999094]
+  },
+  {
+    "id": 5,
+    "name": "Willy-Brandt-Platz 5",
+    "address": "Willy-Brandt-Platz 5, 69115 Heidelberg",
+    "coordinates": [8.6751836710402, 49.404857109446354]
+  },
+  {
+    "id": 6,
+    "name": "Neckarhamm",
+    "address": "Neckarhamm 41, 69123 Heidelberg",
+    "coordinates": [8.649155625554098, 49.43010285242764]
+  },
+  {
+    "id": 7,
+    "name": "Untere Neckarstraße",
+    "address": "Untere Neckarstraße 36, 69117 Heidelberg",
+    "coordinates": [8.69940203344924, 49.41197324546771]
+  },
+  {
+    "id": 8,
+    "name": "Berliner Str.",
+    "address": "Berliner Str., 69115 Heidelberg",
+    "coordinates": [8.676505327044108, 49.40919607146937]
+  },
+  {
+    "id": 9,
+    "name": "Das Carre, Rohrbacher Str.",
+    "address": "Das Carre, Rohrbacher Str. 8, 69115 Heidelberg",
+    "coordinates": [8.692223288099965, 49.40779638624115]
+  },
+  {
+    "id": 10,
+    "name": "Schillerstraße 34",
+    "address": "Schillerstraße 34, 69115 Heidelberg",
+    "coordinates": [8.689112889352916, 49.399054171049436]
+  },
+  {
+    "id": 11,
+    "name": "S-Bahnhof Schlierbach",
+    "address": "S-Bahnhof Schlierbach, 69118 Heidelberg",
+    "coordinates": [8.762975761232843, 49.41531526079722]
+  },
+  {
+    "id": 12,
+    "name": "Karlsruher Str.",
+    "address": "Karlsruher Str. 255, 69126 Heidelberg",
+    "coordinates": [8.687593415967454, 49.38040184831133]
+  },
+  {
+    "id": 13,
+    "name": "Rathausstraße",
+    "address": "Rathausstraße 9, 69181 Leimen",
+    "coordinates": [8.691354361391221, 49.34870295715524]
+  },
+  {
+    "id": 14,
+    "name": "Neckarstraße",
+    "address": "Neckarstraße, 68526 Ladenburg",
+    "coordinates": [8.606264015089465, 49.46974348755074]
+  },
+  {
+    "id": 15,
+    "name": "Handschuhsheimer Landstraße",
+    "address": "Handschuhsheimer Landstraße 12, 69221 Dossenheim",
+    "coordinates": [8.669955622666688, 49.448455462095204]
+  },
+  {
+    "id": 16,
+    "name": "Humboldtstraße",
+    "address": "Humboldtstraße 23, 69120 Heidelberg",
+    "coordinates": [8.677864926226, 49.41707638785216]
+  },
+  {
+    "id": 17,
+    "name": "Eppelheimer Str",
+    "address": "Eppelheimer Str. 81, 69123 Heidelberg",
+    "coordinates": [8.647396504584394, 49.403323297377014]
+  }
+]

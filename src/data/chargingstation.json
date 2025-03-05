@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "name": "Im Schuhmachergewann",
+    "address": "Im Schuhmachergewann 8, 69123 Heidelberg",
+    "coordinates": [8.68258557590858, 49.4274070833456],
+    "typeOfStation": {
+      "CCS [150kW]": 2,
+      "Type 2 [22kw": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "Heidelberger Str.",
+    "address": "Heidelberger Str. 54-65, 69221 Dossenheim",
+    "coordinates": [8.677109740771211, 49.45060943220455],
+    "typeOfStation": {
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fritz-Frey-Straße",
+    "address": "Fritz-Frey-Straße 10, 69121 Heidelberg",
+    "coordinates": [8.682989595249447, 49.438581540476505],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 4,
+    "name": "Hebelstraße 4",
+    "address": "Hebelstraße 4, 69115 Heidelberg",
+    "coordinates": [8.682376212503362, 49.402858314992294],
+    "typeOfStation": {
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hans-Thoma-Straße",
+    "address": "51, Hans-Thoma-Straße, 69121 Heidelberg",
+    "coordinates": [8.679847473460853, 49.437454019941626],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 6,
+    "name": "Henkel-Teroson-Straße",
+    "address": "Henkel-Teroson-Straße 24, 69123 Heidelberg",
+    "coordinates": [8.651507080023853, 49.412347050897],
+    "typeOfStation": {
+      "CCS [300kW]": 4,
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 7,
+    "name": "Rufinuspl",
+    "address": "Rufinuspl. 1, 69120 Heidelberg",
+    "coordinates": [8.677785902230596, 49.41810474345274],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hans-Thoma-Platz",
+    "address": "16 Hans-Thoma-Platz Heidelberg, 69121 DE",
+    "coordinates": [8.682433571273597, 49.42974355414913],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 9,
+    "name": "Vangerowstraße",
+    "address": "Vangerowstraße 4, 69115 Heidelberg",
+    "coordinates": [8.678970697823127, 49.40890672028273],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 10,
+    "name": "Uferstraße",
+    "address": "Uferstraße 5, 69120 Heidelberg",
+    "coordinates": [8.692506571943476, 49.41695209452459],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 11,
+    "name": "Maria-Probst-Straße",
+    "address": "Maria-Probst-Straße 3, 69123 Heidelberg",
+    "coordinates": [8.653266805145151, 49.4180935416037],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 12,
+    "name": "Langgewann",
+    "address": "Langgewann 1, 69121 Heidelberg",
+    "coordinates": [8.677876909789338, 49.42526152088089],
+    "typeOfStation": {
+      "Type 2 [22kw": 3
+    }
+  },
+  {
+    "id": 13,
+    "name": "Waldweg",
+    "address": "Waldweg 8, 69121 Heidelberg",
+    "coordinates": [8.691681908027405, 49.43423408922055],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 14,
+    "name": "Mönchhofpl.",
+    "address": "Mönchhofpl. 1, 69120 Heidelberg",
+    "coordinates": [8.691376422925156, 49.42054604418529],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 15,
+    "name": "Quinckestraße",
+    "address": "Quinckestraße 69, 69120 Heidelberg",
+    "coordinates": [8.684228459333232, 49.42412662132895],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 16,
+    "name": "Tiergartenstraße",
+    "address": "Tiergartenstraße 13, 69121 Heidelberg",
+    "coordinates": [8.65690289150381, 49.424291583337016],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kapellenweg",
+    "address": "Kapellenweg 4, 69121 Heidelberg",
+    "coordinates": [8.690291908134846, 49.4273173427616],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 18,
+    "name": "Tiergartenstraße",
+    "address": "Tiergartenstraße 130, 69120 Heidelberg",
+    "coordinates": [8.661667822014378, 49.430746246444066],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 19,
+    "name": "Eppelheimer Str.",
+    "address": "Eppelheimer Str. 48, 69123 Heidelberg",
+    "coordinates": [8.65815206841662, 49.40968634868164],
+    "typeOfStation": {
+      "CCS [300kW]": 2,
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 20,
+    "name": "Keplerstraße",
+    "address": "Keplerstraße 66, 69120 Heidelberg",
+    "coordinates": [8.68502339869081, 49.420567828030926],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 21,
+    "name": "Fahrtgasse",
+    "address": "Fahrtgasse 14, 69117 Heidelberg",
+    "coordinates": [8.692491577780647, 49.41394115130552],
+    "typeOfStation": {
+      "Type 2 [11kW]": 2
+    }
+  },
+  {
+    "id": 22,
+    "name": "Vangerowstraße",
+    "address": "Vangerowstraße 16, 69115 Heidelberg",
+    "coordinates": [8.671917697176761, 49.41165958861267],
+    "typeOfStation": {
+      "Tesla [22kW]": 3
+    }
+  },
+  {
+    "id": 23,
+    "name": "Pfälzer Str.",
+    "address": "Pfälzer Str. 21, 69123 Heidelberg",
+    "coordinates": [8.65042365357724, 49.421627611178245],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 24,
+    "name": "Bonhoefferstraße",
+    "address": "Bonhoefferstraße 11, 69123 Heidelberg",
+    "coordinates": [8.655618037391697, 49.41635580048699],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 25,
+    "name": "Landhausstraße",
+    "address": "Landhausstraße 22, 69115 Heidelberg",
+    "coordinates": [8.688429386451075, 49.40645869321289],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 26,
+    "name": "Maaßstraße",
+    "address": "Maaßstraße 4/4, 69123 Heidelberg",
+    "coordinates": [8.647304960736395, 49.42890792531986],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 27,
+    "name": "Im Neuenheimer Feld",
+    "address": "Im Neuenheimer Feld 205, 69120 Heidelberg",
+    "coordinates": [8.674635290714855, 49.42358692999547],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 28,
+    "name": "Mühltalstraße",
+    "address": "Mühltalstraße 147, 69121 Heidelberg",
+    "coordinates": [8.70655511633796, 49.43471591757887],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 29,
+    "name": "Wieblinger Weg",
+    "address": "Wieblinger Weg 24, 69115 Heidelberg, 8.6619069661286",
+    "coordinates": [8.6619069661286, 49.413957801873345],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 30,
+    "name": "Friedrich-Ebert-Anlage",
+    "address": "Friedrich-Ebert-Anlage 1, 69117 Heidelberg",
+    "coordinates": [8.695215529066292, 49.4078541374782],
+    "typeOfStation": {
+      "Tesla [22kW]": 3
+    }
+  },
+  {
+    "id": 31,
+    "name": "Untere Neckarstraße",
+    "address": "Untere Neckarstraße 2, 69117 Heidelberg",
+    "coordinates": [8.697020767833921, 49.41460861588558],
+    "typeOfStation": {
+      "Type 2 [11kW]": 2
+    }
+  },
+  {
+    "id": 32,
+    "name": "Im Sändel",
+    "address": "Im Sändel 6, 69123 Heidelberg",
+    "coordinates": [8.638615802860588, 49.431379182847934],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 33,
+    "name": "Theodor-Körner-Straße",
+    "address": "25-17, Theodor-Körner-Straße, 69115 Heidelberg",
+    "coordinates": [8.670266434913842, 49.407278397288344],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 34,
+    "name": "Zeppelinstraße",
+    "address": "Zeppelinstraße 11-33, 69121 Heidelberg",
+    "coordinates": [8.683854628408206, 49.42545787399195],
+    "typeOfStation": {
+      "Type 2 [22kw": 1,
+      "CHAdeMO [50kW]": 1,
+      "CCS [50kW]": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "Eppelheimer Str.",
+    "address": "Eppelheimer Str. 38, 69115 Heidelberg",
+    "coordinates": [8.660092873202917, 49.40892334730325],
+    "typeOfStation": {
+      "CCS [300kW]": 2
+    }
+  },
+  {
+    "id": 36,
+    "name": "Hauptstraße",
+    "address": "Hauptstraße 82, 69221 Dossenheim",
+    "coordinates": [8.67867825553365, 49.45599627864821],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 37,
+    "name": "Langer Anger",
+    "address": "Langer Anger 175, 69115 Heidelberg",
+    "coordinates": [8.663171440725542, 49.40704169733289],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 38,
+    "name": "Zwingerstraße",
+    "address": "Zwingerstraße 3-5, 69117 Heidelberg",
+    "coordinates": [8.709426058696558, 49.410648981818696],
+    "typeOfStation": {
+      "Type 2 [22kw": 1
+    }
+  },
+  {
+    "id": 39,
+    "name": "Maaßstraße",
+    "address": "Maaßstraße 28 Heidelberg, 69123 DE",
+    "coordinates": [8.64332610138891, 49.42565273403932],
+    "typeOfStation": {
+      "Type 2 [22kw": 1
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rahmengasse",
+    "address": "Rahmengasse 30, 69120 Heidelberg",
+    "coordinates": [8.690714040454074, 49.42170707902402],
+    "typeOfStation": {
+      "Tesla [22kW]": 2
+    }
+  },
+  {
+    "id": 41,
+    "name": "Steigerweg",
+    "address": "Steigerweg 25, 69115 Heidelberg",
+    "coordinates": [8.693552729428069, 49.40121221000189],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 42,
+    "name": "Am Fürstenweiher",
+    "address": "Am Fürstenweiher 40, 69118 Heidelberg",
+    "coordinates": [8.748620477118129, 49.43231760085596],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 43,
+    "name": "Bergheimer Str.",
+    "address": "Bergheimer Str. 63, 69115 Heidelberg",
+    "coordinates": [8.68664096539941, 49.40790109736594],
+    "typeOfStation": {
+      "Type 2 [11kW]": 2
+    }
+  },
+  {
+    "id": 44,
+    "name": "Zähringerstraße",
+    "address": "32 Zähringerstraße Heidelberg, 69115 DE",
+    "coordinates": [8.685144265508644, 49.404828934530784],
+    "typeOfStation": {
+      "Type 2 [22kw": 2
+    }
+  },
+  {
+    "id": 45,
+    "name": "Alte Eppelheimer Str.",
+    "address": "Alte Eppelheimer Str. 3, 69115 Heidelberg",
+    "coordinates": [8.681369690758622, 49.406431994723675],
+    "typeOfStation": {
+      "Type 2 [22kw": 3
+    }
+  },
+  {
+    "id": 46,
+    "name": "Kurfürsten-Anlage",
+    "address": "Kurfürsten-Anlage 1, 69115 Heidelberg",
+    "coordinates": [8.691231310004788, 49.410467357863],
+    "typeOfStation": {
+      "Tesla [22kW]": 2
+    }
+  },
+  {
+    "id": 47,
+    "name": "Käfertaler Str.",
+    "address": "Käfertaler Str. 9, 69123 Heidelberg",
+    "coordinates": [8.644890680647743, 49.43587094624973],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 48,
+    "name": "Hornbach Baumarkt",
+    "address": "Heidelberg - Hornbach Baumarkt, Wieblinger Weg 94-98, 69123 Heidelberg",
+    "coordinates": [8.646001934256264, 49.4146207752323],
+    "typeOfStation": {
+      "CCS [300kW]": 4,
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 49,
+    "name": "Heidelberger Str.",
+    "address": "Heidelberger Str. 54-65, 69221 Dossenheim",
+    "coordinates": [8.675120850954645, 49.450424844526],
+    "typeOfStation": {
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 50,
+    "name": "Hebelstraße",
+    "address": "Hebelstraße 4, 69115 Heidelberg",
+    "coordinates": [8.681798238328623, 49.40285894988726],
+    "typeOfStation": {
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 51,
+    "name": "Henkel-Teroson-Straße",
+    "address": "Henkel-Teroson-Straße 24, 69123 Heidelberg",
+    "coordinates": [8.650349129571039, 49.411971859268334],
+    "typeOfStation": {
+      "CCS [300kW]": 4,
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 52,
+    "name": "Eppelheimer Str.",
+    "address": "Eppelheimer Str. 48, 69123 Heidelberg",
+    "coordinates": [8.655844024411355, 49.41140216306473],
+    "typeOfStation": {
+      "CCS [300kW]": 2,
+      "CCS [150kW]": 2
+    }
+  },
+  {
+    "id": 53,
+    "name": "Keplerstraße",
+    "address": "Keplerstraße 66, 69120 Heidelberg",
+    "coordinates": [8.684463602913313, 49.420969398789175],
+    "typeOfStation": {
+      "Type 2 [22kw": 4
+    }
+  },
+  {
+    "id": 54,
+    "name": "Zeppelinstraße",
+    "address": "Zeppelinstraße 11-33, 69121 Heidelberg",
+    "coordinates": [8.686818077510402, 49.42642261640051],
+    "typeOfStation": {
+      "Type 2 [22kw": 1,
+      "CHAdeMO [50kW]": 1,
+      "CCS [50kW]": 1
+    }
+  }
+]
